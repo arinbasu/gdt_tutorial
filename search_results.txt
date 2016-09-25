@@ -1,0 +1,646 @@
+1. Front Psychol. 2016 May 10;7:578. doi: 10.3389/fpsyg.2016.00578. eCollection
+2016.
+
+Mindful Reading: Mindfulness Meditation Helps Keep Readers with Dyslexia and ADHD
+on the Lexical Track.
+
+Tarrasch R(1), Berman Z(2), Friedmann N(1).
+
+Author information: 
+(1)School of Education and Sagol School of Neuroscience, Tel Aviv University Tel 
+Aviv, Israel. (2)School of Psychology, Tel Aviv University Tel Aviv, Israel.
+
+This study explored the effects of a Mindfulness-Based Stress Reduction (MBSR)
+intervention on reading, attention, and psychological well-being among people
+with developmental dyslexia and/or attention deficits. Various types of dyslexia 
+exist, characterized by different error types. We examined a question that has
+not been tested so far: which types of errors (and dyslexias) are affected by
+MBSR training. To do so, we tested, using an extensive battery of reading tests, 
+whether each participant had dyslexia, and which errors types s/he makes, and
+then compared the rate of each error type before and after the MBSR workshop. We 
+used a similar approach to attention disorders: we evaluated the participants'
+sustained, selective, executive, and orienting of attention to assess whether
+they had attention-disorders, and if so, which functions were impaired. We then
+evaluated the effect of MBSR on each of the attention functions. Psychological
+measures including mindfulness, stress, reflection and rumination,
+lifesatisfaction, depression, anxiety, and sleep-disturbances were also
+evaluated. Nineteen Hebrew-readers completed a 2-month mindfulness workshop. The 
+results showed that whereas reading errors of letter-migrations within and
+between words and vowelletter errors did not decrease following the workshop,
+most participants made fewer reading errors in general following the workshop,
+with a significant reduction of 19% from their original number of errors. This
+decrease mainly resulted from a decrease in errors that occur due to reading via 
+the sublexical rather than the lexical route. It seems, therefore, that
+mindfulness helped reading by keeping the readers on the lexical route. This
+improvement in reading probably resulted from improved sustained attention: the
+reduction in sublexical reading was significant for the dyslexic participants who
+also had attention deficits, and there were significant correlations between
+reduced reading errors and decreases in impulsivity. Following the meditation
+workshop, the rate of commission errors decreased, indicating decreased
+impulsivity, and the variation in RTs in the CPT task decreased, indicating
+improved sustained attention. Significant improvements were obtained in
+participants' mindfulness, perceived-stress, rumination, depression,
+state-anxiety, and sleep-disturbances. Correlations were also obtained between
+reading improvement and increased mindfulness following the workshop. Thus,
+whereas mindfulness training did not affect specific types of errors and did not 
+improve dyslexia, it did affect the reading of adults with developmental dyslexia
+and ADHD, by helping them to stay on the straight path of the lexical route while
+reading. Thus, the reading improvement induced by mindfulness sheds light on the 
+intricate relation between attention and reading. Mindfulness reduced impulsivity
+and improved sustained attention, and this, in turn, improved reading of adults
+with developmental dyslexia and ADHD, by helping them to read via the straight
+path of the lexical route.
+
+DOI: 10.3389/fpsyg.2016.00578 
+PMCID: PMC4862243
+PMID: 27242565  [PubMed]
+
+
+2. Neural Plast. 2016;2016:9504642. doi: 10.1155/2016/9504642. Epub 2016 Feb 21.
+
+State and Training Effects of Mindfulness Meditation on Brain Networks Reflect
+Neuronal Mechanisms of Its Antidepressant Effect.
+
+Yang CC(1), Barrós-Loscertales A(2), Pinazo D(3), Ventura-Campos N(4), Borchardt 
+V(5), Bustamante JC(6), Rodríguez-Pujadas A(2), Fuentes-Claramonte P(2), Balaguer
+R(3), Ávila C(2), Walter M(7).
+
+Author information: 
+(1)Departamento de Psicología Básica, Clínica y Psicobiología, Universitat Jaume 
+I, 12071 Castellón, Spain; Clinical Affective Neuroimaging Laboratory, 39120
+Magdeburg, Germany; Department of Behavioral Neurology, Leibniz Institute for
+Neurobiology, 39118 Magdeburg, Germany. (2)Departamento de Psicología Básica,
+Clínica y Psicobiología, Universitat Jaume I, 12071 Castellón, Spain.
+(3)Departamento de Psicología Evolutiva, Educativa, Social y Metodología,
+Universitat Jaume I, 12071 Castellón, Spain. (4)Departamento de Psicología
+Básica, Clínica y Psicobiología, Universitat Jaume I, 12071 Castellón, Spain;
+Departamento de Didáctica de la Matemática, Facultad de Magisterio de la
+Universidad de Valencia, 46022 Valencia, Spain. (5)Clinical Affective
+Neuroimaging Laboratory, 39120 Magdeburg, Germany; Department of Behavioral
+Neurology, Leibniz Institute for Neurobiology, 39118 Magdeburg, Germany.
+(6)Departamento de Psicologia y Sociologia, Universidad de Zaragoza, 50009
+Zaragoza, Spain. (7)Clinical Affective Neuroimaging Laboratory, 39120 Magdeburg, 
+Germany; Department of Behavioral Neurology, Leibniz Institute for Neurobiology, 
+39118 Magdeburg, Germany; Department of Psychiatry and Psychotherapy,
+Otto-von-Guericke University, 39120 Magdeburg, Germany; Center for Behavioral
+Brain Sciences (CBBS), 39120 Magdeburg, Germany; Department of Psychiatry and
+Psychotherapy, Eberhard Karls University, 72076 Tuebingen, Germany.
+
+The topic of investigating how mindfulness meditation training can have
+antidepressant effects via plastic changes in both resting state and meditation
+state brain activity is important in the rapidly emerging field of
+neuroplasticity. In the present study, we used a longitudinal design
+investigating resting state fMRI both before and after 40 days of meditation
+training in 13 novices. After training, we compared differences in network
+connectivity between rest and meditation using common resting state functional
+connectivity methods. Interregional methods were paired with local measures such 
+as Regional Homogeneity. As expected, significant differences in functional
+connectivity both between states (rest versus meditation) and between time points
+(before versus after training) were observed. During meditation, the internal
+consistency in the precuneus and the temporoparietal junction increased, while
+the internal consistency of frontal brain regions decreased. A follow-up analysis
+of regional connectivity of the dorsal anterior cingulate cortex further revealed
+reduced connectivity with anterior insula during meditation. After meditation
+training, reduced resting state functional connectivity between the pregenual
+anterior cingulate and dorsal medical prefrontal cortex was observed. Most
+importantly, significantly reduced depression/anxiety scores were observed after 
+training. Hence, these findings suggest that mindfulness meditation might be of
+therapeutic use by inducing plasticity related network changes altering the
+neuronal basis of affective disorders such as depression.
+
+DOI: 10.1155/2016/9504642 
+PMCID: PMC4779536
+PMID: 26998365  [PubMed - in process]
+
+
+3. Appl Psychophysiol Biofeedback. 2015 Dec;40(4):257-68. doi:
+10.1007/s10484-015-9293-x.
+
+Physical activity, mindfulness meditation, or heart rate variability biofeedback 
+for stress reduction: a randomized controlled trial.
+
+van der Zwan JE(1,)(2), de Vente W(3,)(4), Huizink AC(5), Bögels SM(3,)(4), de
+Bruin EI(3,)(4).
+
+Author information: 
+(1)Department of Developmental Psychology and EMGO Institute for Health and Care 
+Research, VU University Amsterdam, Amsterdam, The Netherlands.
+j.e.vander.zwan@vu.nl. (2)Department of Developmental Psychology, Faculty of
+Psychology and Education, VU University Amsterdam, Van Der Boechorststraat 1,
+1081 BT, Amsterdam, The Netherlands. j.e.vander.zwan@vu.nl. (3)Research Institute
+of Child Development and Education, University of Amsterdam, Amsterdam, The
+Netherlands. (4)Research Priority Area Yield, University of Amsterdam, Amsterdam,
+The Netherlands. (5)Department of Developmental Psychology and EMGO Institute for
+Health and Care Research, VU University Amsterdam, Amsterdam, The Netherlands.
+
+In contemporary western societies stress is highly prevalent, therefore the need 
+for stress-reducing methods is great. This randomized controlled trial compared
+the efficacy of self-help physical activity (PA), mindfulness meditation (MM),
+and heart rate variability biofeedback (HRV-BF) in reducing stress and its
+related symptoms. We randomly allocated 126 participants to PA, MM, or HRV-BF
+upon enrollment, of whom 76 agreed to participate. The interventions consisted of
+psycho-education and an introduction to the specific intervention techniques and 
+5 weeks of daily exercises at home. The PA exercises consisted of a
+vigorous-intensity activity of free choice. The MM exercises consisted of guided 
+mindfulness meditation. The HRV-BF exercises consisted of slow breathing with a
+heart rate variability biofeedback device. Participants received daily reminders 
+for their exercises and were contacted weekly to monitor their progress. They
+completed questionnaires prior to, directly after, and 6 weeks after the
+intervention. Results indicated an overall beneficial effect consisting of
+reduced stress, anxiety and depressive symptoms, and improved psychological
+well-being and sleep quality. No significant between-intervention effect was
+found, suggesting that PA, MM, and HRV-BF are equally effective in reducing
+stress and its related symptoms. These self-help interventions provide easily
+accessible help for people with stress complaints.
+
+DOI: 10.1007/s10484-015-9293-x 
+PMCID: PMC4648965
+PMID: 26111942  [PubMed - indexed for MEDLINE]
+
+
+4. JAMA Intern Med. 2015 Apr;175(4):494-501. doi: 10.1001/jamainternmed.2014.8081.
+
+Mindfulness meditation and improvement in sleep quality and daytime impairment
+among older adults with sleep disturbances: a randomized clinical trial.
+
+Black DS(1), O'Reilly GA(1), Olmstead R(2), Breen EC(2), Irwin MR(2).
+
+Author information: 
+(1)Department of Preventive Medicine, Keck School of Medicine, University of
+Southern California, Los Angeles. (2)Cousins Center for Psychoneuroimmunology,
+Semel Institute for Neuroscience, Department of Psychiatry and Biobehavioral
+Sciences, David Geffen School of Medicine at UCLA, University of California, Los 
+Angeles.
+
+Comment in
+    Praxis (Bern 1994). 2015 May 20;104(11):591-2.
+    JAMA Intern Med. 2015 Apr;175(4):502-3.
+
+IMPORTANCE: Sleep disturbances are most prevalent among older adults and often go
+untreated. Treatment options for sleep disturbances remain limited, and there is 
+a need for community-accessible programs that can improve sleep.
+OBJECTIVE: To determine the efficacy of a mind-body medicine intervention, called
+mindfulness meditation, to promote sleep quality in older adults with moderate
+sleep disturbances.
+DESIGN, SETTING, AND PARTICIPANTS: Randomized clinical trial with 2 parallel
+groups conducted from January 1 to December 31, 2012, at a medical research
+center among an older adult sample (mean [SD] age, 66.3 [7.4] years) with
+moderate sleep disturbances (Pittsburgh Sleep Quality Index [PSQI] >5).
+INTERVENTIONS: A standardized mindful awareness practices (MAPs) intervention (n 
+= 24) or a sleep hygiene education (SHE) intervention (n = 25) was randomized to 
+participants, who received a 6-week intervention (2 hours per week) with assigned
+homework.
+MAIN OUTCOMES AND MEASURES: The study was powered to detect between-group
+differences in moderate sleep disturbance measured via the PSQI at
+postintervention. Secondary outcomes pertained to sleep-related daytime
+impairment and included validated measures of insomnia symptoms, depression,
+anxiety, stress, and fatigue, as well as inflammatory signaling via nuclear
+factor (NF)-κB.
+RESULTS: Using an intent-to-treat analysis, participants in the MAPs group showed
+significant improvement relative to those in the SHE group on the PSQI. With the 
+MAPs intervention, the mean (SD) PSQIs were 10.2 (1.7) at baseline and 7.4 (1.9) 
+at postintervention. With the SHE intervention, the mean (SD) PSQIs were 10.2
+(1.8) at baseline and 9.1 (2.0) at postintervention. The between-group mean
+difference was 1.8 (95% CI, 0.6-2.9), with an effect size of 0.89. The MAPs group
+showed significant improvement relative to the SHE group on secondary health
+outcomes of insomnia symptoms, depression symptoms, fatigue interference, and
+fatigue severity (P < .05 for all). Between-group differences were not observed
+for anxiety, stress, or NF-κB, although NF-κB concentrations significantly
+declined over time in both groups (P < .05).
+CONCLUSIONS AND RELEVANCE: The use of a community-accessible MAPs intervention
+resulted in improvements in sleep quality at immediate postintervention, which
+was superior to a highly structured SHE intervention. Formalized
+mindfulness-based interventions have clinical importance by possibly serving to
+remediate sleep problems among older adults in the short term, and this effect
+appears to carry over into reducing sleep-related daytime impairment that has
+implications for quality of life.
+TRIAL REGISTRATION: clinicaltrials.gov Identifier: NCT01534338.
+
+DOI: 10.1001/jamainternmed.2014.8081 
+PMCID: PMC4407465
+PMID: 25686304  [PubMed - indexed for MEDLINE]
+
+
+5. Pain Med. 2015 Apr;16(4):641-52. doi: 10.1111/pme.12605. Epub 2014 Nov 7.
+
+Effects of mindfulness meditation on chronic pain: a randomized controlled trial.
+
+la Cour P(1), Petersen M.
+
+Author information: 
+(1)Center for Functional Diseases, Mental Health Center, Copenhagen
+Multidisciplinary Pain Center, Rigshospitalet, Copenhagen, Denmark.
+
+OBJECTIVE: This randomized controlled clinical trial investigated the effects of 
+mindfulness meditation on chronic pain.
+DESIGN: A total of 109 patients with nonspecific chronic pain were randomized to 
+either a standardized mindfulness meditation program (mindfulness-based stress
+reduction [MBSR]) or to a wait list control.
+METHODS: Pain, physical function, mental function, pain acceptance, and
+health-related quality of life were measured. The SF36 vitality scale was chosen 
+as the primary outcome measure; the primary end point was after completing the
+MBSR course. Within a 2.5-year period, 43 of the 109 randomized patients
+completed the mindfulness program, while 47 remained in the control group. Data
+were compared at three time points: at baseline, after completion of the
+course/waiting period, and at the 6-month follow-up.
+RESULTS: Significant effect (Cohen's d = 0.39) was found on the primary outcome
+measure, the SF36 vitality scale. On the secondary variables, significant medium 
+to large size effects (Cohen's d = 0.37-0.71) were found for lower general
+anxiety and depression, better mental quality of life (psychological well-being),
+feeling in control of the pain, and higher pain acceptance. Small
+(nonsignificant) effect sizes were found for pain measures. There were no
+significant differences in the measures just after the intervention vs the
+6-month follow-up.
+CONCLUSION: A standardized mindfulness program (MBSR) contributes positively to
+pain management and can exert clinically relevant effects on several important
+dimensions in patients with long-lasting chronic pain.
+
+© 2014 American Academy of Pain Medicine.
+
+DOI: 10.1111/pme.12605 
+PMID: 25376753  [PubMed - indexed for MEDLINE]
+
+
+6. Int J Organ Transplant Med. 2014;5(2):50-6.
+
+Reducing stress and anxiety in caregivers of lung transplant patients: benefits
+of mindfulness meditation.
+
+Haines J(1), Spadaro KC(2), Choi J(1), Hoffman LA(1), Blazeck AM(1).
+
+Author information: 
+(1)Department of Acute/Tertiary Care, School of Nursing, University of
+Pittsburgh, Pittsburgh, USA. (2)School of Nursing, Chatham University,
+Pittsburgh, USA.
+
+BACKGROUND: Caregivers are a vital resource in the care of transplant candidates 
+or recipients. However, few strategies have been tested that attempt to decrease 
+the stress and anxiety they commonly encounter.
+OBJECTIVE: To test the feasibility of using mindfulness-based stress reduction
+(MBSR) techniques to decrease stress and anxiety in caregivers of lung transplant
+candidates/recipients who required admission to an acute care facility.
+METHODS: 30 caregivers of lung transplant candidates/recipients were recruited
+during hospitalization of their significant other. Each completed the perceived
+stress scale (PSS) and state trait anxiety inventory (STAI) before and 4 weeks
+after receiving a DVD that demonstrated MBSR techniques. Participants were asked 
+to practice MBSR techniques for 5-15 min a day for 4 weeks.
+RESULTS: The participants had a mean±SD age of 55.6±13.6 years; 77% of
+participants were female and 93% Caucasian. The mean PSS and STAI (trait and
+anxiety) scores of caregivers were higher than population norms pre- and
+post-intervention. Scores for caregivers who stated they watched the entire DVD
+and practiced MBSR techniques as requested (n=15) decreased significantly from
+pre- to post-testing for perceived stress (p=0.001), state anxiety (p=0.003) and 
+trait anxiety (p=0.006). Scores for those who watched some or none of the DVD
+(n=15) did not change significantly.
+CONCLUSION: Caregivers can benefit from stress reduction techniques using MBSR.
+
+
+PMCID: PMC4089339
+PMID: 25013679  [PubMed]
+
+
+7. J Sch Psychol. 2014 Jun;52(3):263-78. doi: 10.1016/j.jsp.2014.03.002. Epub 2014
+Apr 27.
+
+A randomized controlled pilot trial of classroom-based mindfulness meditation
+compared to an active control condition in sixth-grade children.
+
+Britton WB(1), Lepp NE(2), Niles HF(3), Rocha T(4), Fisher NE(5), Gold JS(6).
+
+Author information: 
+(1)Brown University Contemplative Studies Initiative, USA; Department of
+Psychiatry and Human Behavior, Brown University Medical School, USA. Electronic
+address: Willoughby_Britton@Brown.edu. (2)Brown University Contemplative Studies 
+Initiative, USA. (3)Brown University Contemplative Studies Initiative, USA;
+Benson-Henry Institute for Mind Body Medicine, Massachusetts General Hospital,
+USA. (4)Brown University Contemplative Studies Initiative, USA; Mind & Life
+Institute, USA. (5)Brown University Contemplative Studies Initiative, USA;
+Department of Psychiatry and Human Behavior, Brown University Medical School,
+USA. (6)Brown University Contemplative Studies Initiative, USA; Moses Brown
+School, USA.
+
+The current study is a pilot trial to examine the effects of a nonelective,
+classroom-based, teacher-implemented, mindfulness meditation intervention on
+standard clinical measures of mental health and affect in middle school children.
+A total of 101 healthy sixth-grade students (55 boys, 46 girls) were randomized
+to either an Asian history course with daily mindfulness meditation practice
+(intervention group) or an African history course with a matched experiential
+activity (active control group). Self-reported measures included the Youth Self
+Report (YSR), a modified Spielberger State-Trait Anxiety Inventory, and the
+Cognitive and Affective Mindfulness Measure -Revised. Both groups decreased
+significantly on clinical syndrome subscales and affect but did not differ in the
+extent of their improvements. Meditators were significantly less likely to
+develop suicidal ideation or thoughts of self-harm than controls. These results
+suggest that mindfulness training may yield both unique and non-specific benefits
+that are shared by other novel activities.
+
+Copyright © 2014 Society for the Study of School Psychology. Published by
+Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jsp.2014.03.002 
+PMCID: PMC4060047
+PMID: 24930819  [PubMed - indexed for MEDLINE]
+
+
+8. Soc Cogn Affect Neurosci. 2014 Jun;9(6):751-9. doi: 10.1093/scan/nst041. Epub
+2013 Apr 24.
+
+Neural correlates of mindfulness meditation-related anxiety relief.
+
+Zeidan F(1), Martucci KT(2), Kraft RA(2), McHaffie JG(2), Coghill RC(2).
+
+Author information: 
+(1)Department of Neurobiology and Anatomy, Wake Forest School of Medicine,
+Medical Center Boulevard, Winston-Salem, NC 27157, USA and Department of
+Biomedical Engineering, Wake Forest School of Medicine, Medical Center Boulevard,
+Winston-Salem, NC 27157, USA fzeidan@wakehealth.edu. (2)Department of
+Neurobiology and Anatomy, Wake Forest School of Medicine, Medical Center
+Boulevard, Winston-Salem, NC 27157, USA and Department of Biomedical Engineering,
+Wake Forest School of Medicine, Medical Center Boulevard, Winston-Salem, NC
+27157, USA.
+
+Anxiety is the cognitive state related to the inability to control emotional
+responses to perceived threats. Anxiety is inversely related to brain activity
+associated with the cognitive regulation of emotions. Mindfulness meditation has 
+been found to regulate anxiety. However, the brain mechanisms involved in
+meditation-related anxiety relief are largely unknown. We employed pulsed
+arterial spin labeling MRI to compare the effects of distraction in the form of
+attending to the breath (ATB; before meditation training) to mindfulness
+meditation (after meditation training) on state anxiety across the same subjects.
+Fifteen healthy subjects, with no prior meditation experience, participated in 4 
+d of mindfulness meditation training. ATB did not reduce state anxiety, but state
+anxiety was significantly reduced in every session that subjects meditated.
+Meditation-related anxiety relief was associated with activation of the anterior 
+cingulate cortex, ventromedial prefrontal cortex and anterior insula.
+Meditation-related activation in these regions exhibited a strong relationship to
+anxiety relief when compared to ATB. During meditation, those who exhibited
+greater default-related activity (i.e. posterior cingulate cortex) reported
+greater anxiety, possibly reflecting an inability to control self-referential
+thoughts. These findings provide evidence that mindfulness meditation attenuates 
+anxiety through mechanisms involved in the regulation of self-referential thought
+processes.
+
+© The Author (2013). Published by Oxford University Press. For Permissions,
+please email: journals.permissions@oup.com.
+
+DOI: 10.1093/scan/nst041 
+PMCID: PMC4040088
+PMID: 23615765  [PubMed - indexed for MEDLINE]
+
+
+9. J Clin Psychiatry. 2013 Aug;74(8):786-92. doi: 10.4088/JCP.12m08083.
+
+Randomized controlled trial of mindfulness meditation for generalized anxiety
+disorder: effects on anxiety and stress reactivity.
+
+Hoge EA(1), Bui E, Marques L, Metcalf CA, Morris LK, Robinaugh DJ, Worthington
+JJ, Pollack MH, Simon NM.
+
+Author information: 
+(1)Center for Anxiety and Traumatic Stress Disorders, Massachusetts General
+Hospital, One Bowdoin Sq, 6th Floor, Boston, MA 02114 ehoge@partners.org.
+
+OBJECTIVE: Mindfulness meditation has met increasing interest as a therapeutic
+strategy for anxiety disorders, but prior studies have been limited by
+methodological concerns, including a lack of an active comparison group. This is 
+the first randomized, controlled trial comparing the manualized Mindfulness-Based
+Stress Reduction (MBSR) program with an active control for generalized anxiety
+disorder (GAD), a disorder characterized by chronic worry and physiologic
+hyperarousal symptoms.
+METHOD: Ninety-three individuals with DSM-IV-diagnosed GAD were randomly assigned
+to an 8-week group intervention with MBSR or to an attention control, Stress
+Management Education (SME), between 2009 and 2011. Anxiety symptoms were measured
+with the Hamilton Anxiety Rating Scale (HAMA; primary outcome measure), the
+Clinical Global Impressions-Severity of Illness and -Improvement scales (CGI-S
+and CGI-I), and the Beck Anxiety Inventory (BAI). Stress reactivity was assessed 
+by comparing anxiety and distress during pretreatment and posttreatment
+administration of the Trier Social Stress Test (TSST).
+RESULTS: A modified intent-to-treat analysis including participants who completed
+at least 1 session of MBSR (n = 48) or SME (n = 41) showed that both
+interventions led to significant (P < .0001) reductions in HAMA scores at
+endpoint, but did not significantly differ. MBSR, however, was associated with a 
+significantly greater reduction in anxiety as measured by the CGI-S, the CGI-I,
+and the BAI (all P values < .05). MBSR was also associated with greater
+reductions than SME in anxiety and distress ratings in response to the TSST
+stress challenge (P < .05) and a greater increase in positive self-statements (P 
+= .004).
+CONCLUSIONS: These results suggest that MBSR may have a beneficial effect on
+anxiety symptoms in GAD and may also improve stress reactivity and coping as
+measured in a laboratory stress challenge.
+TRIAL REGISTRATION: ClinicalTrials.gov identifier: NCT01033851.
+
+© Copyright 2013 Physicians Postgraduate Press, Inc.
+
+DOI: 10.4088/JCP.12m08083 
+PMCID: PMC3772979
+PMID: 23541163  [PubMed - indexed for MEDLINE]
+
+
+10. Psychol Res Behav Manag. 2012;5:131-41. doi: 10.2147/PRBM.S34937. Epub 2012 Nov
+23.
+
+An update on mindfulness meditation as a self-help treatment for anxiety and
+depression.
+
+Edenfield TM(1), Saeed SA.
+
+Author information: 
+(1)Department of Psychiatric Medicine, Brody School of Medicine at East Carolina 
+University, Greenville, NC, USA.
+
+In recent years, complementary and alternative medicine (CAM) treatments have
+increased in popularity. This is especially true for treatments that are related 
+to exercise and mindfulness-based interventions (MBIs) in the treatment of both
+mental and physical illness. MBIs, such as Mindfulness-based Cognitive Therapy
+(MBCT) and Mindfulness-Based Stress Reduction (MBSR), which are derived from
+ancient Buddhist and Yoga philosophies, have become popular treatments in
+contemporary psychotherapy. While there is growing evidence that supports the
+role of these interventions in relapse prevention, little is known about the role
+that MBIs play in the treatment of acute symptoms of depression and anxiety. Even
+less is known about the importance of specific components of MBIs (eg,
+mindfulness meditation [MM]) and the overall impact that these interventions have
+on the experience or expression of psychological distress. Moreover, few studies 
+have rigorously evaluated the dose-response relationship that is required to
+effect positive symptom change and the mechanisms of change that are responsible 
+for observed improvements. This review will define meditation and mindfulness,
+discuss the relationship between stress and health and how MM relates to
+therapeutically engaging the relaxation response, and review the empirical
+findings that are related to the efficacy of MM in the treatment of depression
+and anxiety symptoms. Given the paucity of research that examines the
+applications of these treatments in clinical populations, the limitations of
+applying these findings to clinical samples will be mentioned. A brief review of 
+the issues related to the possible mechanisms of change and the dose-response
+relationship regarding MBIs, particularly MM, will be provided. Finally,
+limitations of the extant literature and future directions for further
+exploration of this topic will be offered.
+
+DOI: 10.2147/PRBM.S34937 
+PMCID: PMC3500142
+PMID: 23175619  [PubMed]
+
+
+11. Aten Primaria. 2010 Nov;42(11):564-70. doi: 10.1016/j.aprim.2009.10.020. Epub
+2010 Feb 2.
+
+[Reducing stress levels and anxiety in primary-care physicians through training
+and practice of a mindfulness meditation technique].
+
+[Article in Spanish]
+
+Franco Justo C(1).
+
+Author information: 
+(1)Departamento de Psicología Evolutiva y de la Educación, Universidad de
+Almería, Almería, Spain. cfranco@ual.es
+
+PURPOSE: To check the effectiveness of a mindfulness development meditation
+technique on stress and anxiety in a group of primary-care physicians.
+DESIGN: Quasi-experimental with pretest/posttest/follow-up measurements in a
+control group and an experimental group. SITE: University of Almeria.
+PARTICIPANTS: 38 primary-care physicians enrolled in a Teaching Aptitude Course
+(CAP).
+INTERVENTION: An experimental group and a control group were formed with 19
+participants in each. The experimental group took a psycho-educational meditation
+program for training and practice in mindfulness.
+MEASUREMENT: The Perceived Stress Scale (PSS), the Strain Questionnaire and the
+State-Trait Anxiety Questionnaire were used to measure stress and anxiety levels.
+RESULTS: A comparative statistical analysis was performed using the Mann-Whitney 
+non-parametric U test, finding a significant reduction in all the primary-care
+physician stress and anxiety variables in the experimental group compared to the 
+control group in pretest-posttest and follow-up tests.
+CONCLUSIONS: The results of this study support the effectiveness of mindfulness
+development meditation techniques in decreasing stress and anxiety in
+primary-care physicians. Nevertheless, the study shows various limitations that
+would have to be corrected in successive studies to bring more validity to the
+results.
+
+Copyright © 2009 Elsevier España, S.L. All rights reserved.
+
+DOI: 10.1016/j.aprim.2009.10.020 
+PMID: 20129713  [PubMed - indexed for MEDLINE]
+
+
+12. J Cogn Psychother. 2009 Aug;23(3):242-257.
+
+Mindfulness Meditation Training and Self-Referential Processing in Social Anxiety
+Disorder: Behavioral and Neural Effects.
+
+Goldin P(1), Ramel W(1), Gross J(1).
+
+Author information: 
+(1)Stanford University.
+
+This study examined the effects of mindfulness-based stress reduction (MBSR) on
+the brain-behavior mechanisms of self-referential processing in patients with
+social anxiety disorder (SAD). Sixteen patients underwent functional magnetic
+resonance imaging while encoding self-referential, valence, and orthographic
+features of social trait adjectives. Post-MBSR, 14 patients completed
+neuroimaging. Compared to baseline, MBSR completers showed (a) increased
+self-esteem and decreased anxiety, (b) increased positive and decreased negative 
+self-endorsement, (c) increased activity in a brain network related to attention 
+regulation, and (d) reduced activity in brain systems implicated in
+conceptual-linguistic self-view. MBSR-related changes in maladaptive or distorted
+social self-view in adults diagnosed with SAD may be related to modulation of
+conceptual self-processing and attention regulation. Self-referential processing 
+may serve as a functional biobehavioral target to measure the effects of
+mindfulness training.
+
+DOI: 10.1891/0889-8391.23.3.242 
+PMCID: PMC4283801
+PMID: 25568592  [PubMed]
+
+
+13. Clin Trials. 2009 Feb;6(1):76-89. doi: 10.1177/1740774508100982.
+
+Mindfulness meditation training to reduce symptom distress in transplant
+patients: rationale, design, and experience with a recycled waitlist.
+
+Gross CR(1), Kreitzer MJ, Reilly-Spong M, Winbush NY, Schomaker EK, Thomas W.
+
+Author information: 
+(1)Dept of Experimental and Clinical Pharmacology, College of Pharmacy,
+University of Minnesota, Minneapolis 55455, USA. gross002@umn.edu.
+
+BACKGROUND: Solid organ transplant recipients must take immune suppressive
+medications that have side effects, cause complications, and lead to distressing 
+symptoms that reduce health-related quality of life (QOL). Mindfulness meditation
+has been shown to reduce these symptoms in other patient populations, and it is
+unlikely to interfere with the immune suppressive medication regimen.
+PURPOSE: This article describes the design and rationale of a clinical trial to
+determine whether training in mindfulness meditation can reduce depression,
+anxiety and insomnia after transplantation, and summarizes baseline
+characteristics of the participants.
+METHODS: Transplant recipients were randomized in equal numbers to one of three
+arms: a Mindfulness-based Stress Reduction (MBSR) program consisting of 8 weeks
+of group instruction, home practice and telephone monitoring; a time and
+attention control Health Education program; or a waitlist arm. After serving 6
+months as waitlist controls, these participants were re-randomized to MBSR or
+Health Education. Evaluations were obtained at baseline (prior to the active
+interventions), 8 weeks, 6 months, and 1 year (after randomization to MBSR or
+Health Education only). The primary analysis will compare composite symptom
+scores between MBSR and Health Education, initially or after serving in the
+waitlist. Subsequent analyses will compare these two groups on depression,
+anxiety, and insomnia symptom scales and secondary outcomes of health-related
+QOL, actigraphy, and health care utilization. A separate analysis, using only
+data collected before re-randomization, will compare short-term outcomes between 
+the waitlist and active treatment arms.
+RESULTS: One hundred fifty recipients were randomized and 72% of waitlist
+participants (31/43) were recycled to an active intervention after 6 months.
+Patient characteristics were balanced across trial arms after initial and
+secondary randomizations.
+LIMITATIONS: Transplant recipients are a very select population. Their adherence 
+to the intervention and willingness to serve as waitlist controls prior to
+re-randomization may be atypical. Participants were not blinded to treatment and 
+primary outcomes are self-reports.
+CONCLUSION: The innovative design used in the trial enabled the waitlist group to
+directly contribute to the number in the primary analysis of active arms, and to 
+also serve as an internal validation test. The trial may be a useful model for
+trials involving very small target populations.
+
+DOI: 10.1177/1740774508100982 
+PMCID: PMC2818773
+PMID: 19254938  [PubMed - indexed for MEDLINE]
+
+
+14. J Addict Med. 2008 Sep;2(3):165-73. doi: 10.1097/ADM.0b013e31816f8546.
+
+Mindfulness meditation for alcohol relapse prevention: a feasibility pilot study.
+
+Zgierska A(1), Rabago D, Zuelsdorff M, Coe C, Miller M, Fleming M.
+
+Author information: 
+(1)From the Department of Family Medicine (AZ, DR, MZ, MM, MF), University of
+Wisconsin School of Medicine and Public Health, Madison, WI; Department of
+Psychology (CC), University of Wisconsin, Madison, WI; NewStart Alcohol & Drug
+Treatment Program (MM), Meriter Hospital, Madison, WI.
+
+OBJECTIVES: : Meditation is a promising treatment for alcohol dependence. This
+16-week prospective case series was designed to gather preliminary data about the
+efficacy of meditation for relapse prevention and to evaluate study methods
+feasibility.
+METHODS: : Nineteen adult alcohol-dependent graduates of an intensive outpatient 
+program were enrolled. Fifteen subjects completed the 8-week meditation course
+supplemented by at-home meditation and "standard of care" therapy. Outcome
+measures included surveys and 2 stress-responsive biomarkers.
+RESULTS: : Subjects (N = 19, 38.4 standard deviation [SD] = 8.6-year-old) were
+abstinent for 30.9 (SD = 22.2) days at enrollment. Completers (N = 15) attended
+82% of meditation course sessions and meditated on average 4.6 (SD = 1.1) days
+per week; they were abstinent on 94.5% (SD = 7.4) of study days, with 47%
+reporting complete abstinence and 47% reporting 1 or more heavy drinking days.
+Their severity of depression, anxiety, stress (P < 0.05), and craving (P < 0.08),
+documented relapse triggers, decreased, and the degree of mindfulness increased
+(P < 0.05). The meditation course was rated as a "very important" (8.7/10, SD =
+1.8) and "useful relapse prevention tool" (8.5/10, SD = 2.1); participants
+reported being "very likely" to continue meditating (9.0/10, SD = 1.5). "Gaining 
+skills to reduce stress," "coping with craving," and "good group support" were
+the most common qualitative comments about the course value. Compared with
+baseline, at 16 weeks, interleukin-6 levels decreased (N = 12, P = 0.05);
+cortisol levels (N = 10) were reduced but not significantly. There were no
+adverse events or side effects.
+CONCLUSIONS: : Meditation may be an effective adjunctive therapy for relapse
+prevention in alcohol dependence, worthy of investigation in a larger trial. The 
+study methods are appropriate for such a trial.
+
+DOI: 10.1097/ADM.0b013e31816f8546 
+PMCID: PMC4106278
+PMID: 21768988  [PubMed]
