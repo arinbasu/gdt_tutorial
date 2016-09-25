@@ -1,0 +1,808 @@
+1. J Nurs Educ. 2015 Sep;54(9):520-4. doi: 10.3928/01484834-20150814-07.
+
+Stress and Anxiety Management in Nursing Students: Biofeedback and Mindfulness
+Meditation.
+
+Ratanasiripong P, Park JF, Ratanasiripong N, Kathalae D.
+
+BACKGROUND: The current study investigated the efficacy of two brief intervention
+programs-biofeedback and mindfulness meditation-on levels of state anxiety and
+perceived stress in second-year Thai nursing students as they began clinical
+training.
+METHOD: Eighty-nine participants from a public nursing college in Thailand were
+randomly assigned to one of three groups: biofeedback group, mindfulness
+meditation group, or a control group. All participants were given pre- and
+postintervention surveys, which included demographic information; the State-Trait
+Anxiety Inventory (State Anxiety Scale); and the Perceived Stress Scale.
+RESULTS: Findings indicated that biofeedback significantly reduced anxiety and
+maintained stress levels in nursing students. Mindfulness meditation similarly
+decreased anxiety levels, while also significantly lowering stress levels. The
+biofeedback group exhibited significant reduction in anxiety levels among the
+three groups at postintervention.
+CONCLUSION: Despite stressors and demands nursing students experience as they
+begin clinical practice, study findings support the use of biofeedback and
+mindfulness meditation interventions to assist nursing students in managing
+stress and anxiety.
+
+Copyright 2015, SLACK Incorporated.
+
+DOI: 10.3928/01484834-20150814-07 
+PMID: 26334339  [PubMed - indexed for MEDLINE]
+
+
+2. Nurse Educ Today. 2015 Jan;35(1):86-90. doi: 10.1016/j.nedt.2014.06.010. Epub
+2014 Jul 9.
+
+Effects of mindfulness-based stress reduction on depression, anxiety, stress and 
+mindfulness in Korean nursing students.
+
+Song Y(1), Lindquist R(2).
+
+Author information: 
+(1)Kyungpook National University, College of Nursing, Daegu, South Korea.
+Electronic address: asansong@knu.ac.kr. (2)University of Minnesota, School of
+Nursing, Minneapolis, MN, USA. Electronic address: lindq002@umn.edu.
+
+BACKGROUND: Nursing students often experience depression, anxiety, stress and
+decreased mindfulness which may decrease their patient care effectiveness.
+Mindfulness-based stress reduction (MBSR) effectively reduced depression, anxiety
+and stress, and increased mindfulness in previous research with other
+populations, but there is sparse evidence regarding its effectiveness for nursing
+students in Korea.
+OBJECTIVES: To examine the effects of MBSR on depression, anxiety, stress and
+mindfulness in Korean nursing students.
+DESIGN: A randomized controlled trial.
+PARTICIPANTS/SETTING: Fifty (50) nursing students at KN University College of
+Nursing in South Korea were randomly assigned to two groups. Data from 44
+students, MBSR (n=21) and a wait list (WL) control (n=23) were analyzed.
+METHODS: The MBSR group practiced mindfulness meditation for 2 h every week for 8
+weeks. The WL group did not receive MBSR intervention. Standardized
+self-administered questionnaires of depression, anxiety, stress and mindfulness
+were administered at the baseline prior to the MBSR program and at completion (at
+8 weeks).
+RESULTS: Compared with WL participants, MBSR participants reported significantly 
+greater decreases in depression, anxiety and stress, and greater increase in
+mindfulness.
+CONCLUSION: A program of MBSR was effective when it was used with nursing
+students in reducing measures of depression, anxiety and stress, and increasing
+their mindful awareness. MBSR shows promise for use with nursing students to
+address their experience of mild depression, anxiety and stress, and to increase 
+mindfulness in academic and clinical work, warranting further study.
+
+Copyright © 2014 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.nedt.2014.06.010 
+PMID: 25066651  [PubMed - indexed for MEDLINE]
+
+
+3. Behav Ther. 2014 Mar;45(2):241-53. doi: 10.1016/j.beth.2013.11.003. Epub 2013 Nov
+25.
+
+Internet-based mindfulness treatment for anxiety disorders: a randomized
+controlled trial.
+
+Boettcher J(1), Aström V(2), Påhlsson D(2), Schenström O(3), Andersson G(4),
+Carlbring P(5).
+
+Author information: 
+(1)Stockholm University and Freie Universitaet Berlin. Electronic address:
+johanna.boettcher@fu-berlin.de. (2)Umeå University. (3)Mindfulness Center.
+(4)Karolinska Institutet. (5)Stockholm University.
+
+Mindfulness-based interventions have proven effective for the transdiagnostic
+treatment of heterogeneous anxiety disorders. So far, no study has investigated
+the potential of mindfulness-based treatments when delivered remotely via the
+Internet. The current trial aims at evaluating the efficacy of a stand-alone,
+unguided, Internet-based mindfulness treatment program for anxiety. Ninety-one
+participants diagnosed with social anxiety disorder, generalized anxiety
+disorder, panic disorder, or anxiety disorder not otherwise specified were
+randomly assigned to a mindfulness treatment group (MTG) or to an online
+discussion forum control group (CG). Mindfulness treatment consisted of 96 audio 
+files with instructions for various mindfulness meditation exercises. Primary and
+secondary outcome measures were assessed at pre-, posttreatment, and at 6-months 
+follow-up. Participants of the MTG showed a larger decrease of symptoms of
+anxiety, depression, and insomnia from pre- to postassessment than participants
+of the CG (Cohen's d(between)=0.36-0.99). Within effect sizes were large in the
+MTG (d=0.82-1.58) and small to moderate in the CG (d=0.45-0.76). In contrast to
+participants of the CG, participants of the MTG also achieved a moderate
+improvement in their quality of life. The study provided encouraging results for 
+an Internet-based mindfulness protocol in the treatment of primary anxiety
+disorders. Future replications of these results will show whether Web-based
+mindfulness meditation can constitute a valid alternative to existing,
+evidence-based cognitive-behavioural Internet treatments. The trial was
+registered at ClinicalTrials.gov (NCT01577290).
+
+Copyright © 2013 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.beth.2013.11.003 
+PMID: 24491199  [PubMed - indexed for MEDLINE]
+
+
+4. Psychol Health. 2014;29(3):334-49. doi: 10.1080/08870446.2013.852670. Epub 2013
+Nov 1.
+
+Randomised controlled pilot trial of mindfulness training for stress reduction
+during pregnancy.
+
+Guardino CM(1), Dunkel Schetter C, Bower JE, Lu MC, Smalley SL.
+
+Author information: 
+(1)a Department of Psychology , University of California , Los Angeles , CA ,
+USA.
+
+This randomised controlled pilot trial tested a six-week mindfulness-based
+intervention in a sample of pregnant women experiencing high levels of perceived 
+stress and pregnancy anxiety. Forty-seven women enrolled between 10 and 25 weeks 
+gestation were randomly assigned to either a series of weekly Mindful Awareness
+Practices classes (n = 24) with home practice or to a reading control condition
+(n = 23). Hierarchical linear models of between-group differences in change over 
+time demonstrated that participants in the mindfulness intervention experienced
+larger decreases from pre-to post-intervention in pregnancy-specific anxiety and 
+pregnancy-related anxiety (PRA) than participants in the reading control
+condition. However, these effects were not sustained through follow-up at six
+weeks post-intervention. Participants in both groups experienced increased
+mindfulness, as well as decreased perceived stress and state anxiety over the
+course of the intervention and follow-up periods. This study is one of the first 
+randomised controlled pilot trials of a mindfulness meditation intervention
+during pregnancy and provides some evidence that mindfulness training during
+pregnancy may effectively reduce PRA and worry. We discuss some of the dilemmas
+in pursuing this translational strategy and offer suggestions for researchers
+interested in conducting mind-body interventions during pregnancy.
+
+DOI: 10.1080/08870446.2013.852670 
+PMCID: PMC4160533
+PMID: 24180264  [PubMed - indexed for MEDLINE]
+
+
+5. Psychiatry Res. 2013 Dec 30;210(3):1226-31. doi: 10.1016/j.psychres.2013.09.002. 
+Epub 2013 Oct 14.
+
+The effect of focused attention and open monitoring meditation on attention
+network function in healthy volunteers.
+
+Ainsworth B(1), Eddershaw R, Meron D, Baldwin DS, Garner M.
+
+Author information: 
+(1)Psychology, Faculty of Social and Human Sciences, University of Southampton,
+Southampton SO17 1BJ, UK; Clinical and Experimental Sciences, Faculty of
+Medicine, University of Southampton, UK. Electronic address:
+ben.ainsworth@southampton.ac.uk.
+
+Mindfulness meditation techniques are increasingly popular both as a life-style
+choice and therapeutic adjunct for a range of mental and physical health
+conditions. However, little is known about the mechanisms through which
+mindfulness meditation and its constituent practices might produce positive
+change in cognition and emotion. Our study directly compared the effects of
+Focused Attention (FA) and Open-Monitoring (OM) meditation on alerting, orienting
+and executive attention network function in healthy individuals. Participants
+were randomized to three intervention groups: open-focused meditation, focused
+attention, and relaxation control. Participants completed an emotional variant of
+the Attention Network Test (ANT) at baseline and post-intervention. OM and FA
+practice improved executive attention, with no change observed in the relaxation 
+control group. Improvements in executive attention occurred in the absence of
+change in subjective/self-report mood and cognitive function. Baseline levels of 
+dispositional/trait mindfulness were positively correlated with executive control
+in the ANT at baseline. Our results suggest that mindfulness meditation might
+usefully target deficits in executive attention that characterise mood and
+anxiety disorders.
+
+© 2013 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.psychres.2013.09.002 
+PMID: 24135553  [PubMed - indexed for MEDLINE]
+
+
+6. Complement Ther Med. 2013 Aug;21(4):348-57. doi: 10.1016/j.ctim.2013.05.008. Epub
+2013 Jun 25.
+
+The Chinese medicine construct "stagnation" in mind-body connection mediates the 
+effects of mindfulness training on depression and anxiety.
+
+Lo HH(1), Ng SM, Chan CL, Lam KF, Lau BH.
+
+Author information: 
+(1)Department of Social Work and Social Administration, The University of Hong
+Kong, Hong Kong Special Administrative Region. hmlosw@hku.hk
+
+OBJECTIVES: Previous studies have identified different, but highly correlated
+variables explaining the effects of mindfulness training. Many of them are
+limited by tautological explanation. Under the framework of the mind-body
+connection, mindfulness training cultivates body awareness and promotes
+self-management of illness. Stagnation, a concept from Chinese medicine, may help
+explain the mechanism of change in mindfulness training.
+METHODS: Individuals with depressive and anxiety symptoms (n=82) were randomized 
+to either a Compassion-Mindfulness Therapy (C-MT) program or a waitlist control
+condition. The effect of stagnation as a mediator was investigated for dependent 
+variables including depression, anxiety, and other physical and mental health
+variables.
+MAJOR OUTCOME MEASURES: Depression, anxiety, stagnation, physical distress, daily
+functioning, positive affect, negative affect.
+RESULTS: Compared with the participants in the control group, those who completed
+C-MT demonstrated significant decreases in depression, F(1, 78)=15.67, p<.001,
+anxiety, F(1, 78)=7.72, p<.001, stagnation, F(1, 78)=4.96, p<.001, and other
+body-mind-spirit well-being measures. After entering the change in stagnation as 
+the mediator, the effect of treatment reduced: depression (.35-.22), anxiety
+(.33-.05), and same patterns in other three secondary measures. The Sobel test
+was administered and significant reductions between group and depression (z=2.18,
+p=.029), anxiety (z=2.21, p=.027), and three secondary other measures (p<.05)
+were indicated.
+CONCLUSION: The study provides initial support for the role of stagnation in
+mediating changes in mindfulness training. It adds evidence to body-mind
+nondualism and offers new possibilities in studying treatment process and change 
+mechanism.
+
+Copyright © 2013 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.ctim.2013.05.008 
+PMID: 23876566  [PubMed - indexed for MEDLINE]
+
+
+7. Ann Behav Med. 2013 Oct;46(2):243-50. doi: 10.1007/s12160-013-9505-7.
+
+Phone-delivered mindfulness training for patients with implantable cardioverter
+defibrillators: results of a pilot randomized controlled trial.
+
+Salmoirago-Blotcher E(1), Crawford SL, Carmody J, Rosenthal L, Yeh G, Stanley M, 
+Rose K, Browning C, Ockene IS.
+
+Author information: 
+(1)Division of Cardiovascular Medicine, University of Massachusetts Medical
+School, 55 Lake Avenue North, room S3-855, Worcester, MA, USA,
+Elena.Salmoirago-Blotcher@umassmed.edu.
+
+BACKGROUND: The reduction in adrenergic activity and anxiety associated with
+meditation may be beneficial for patients with implantable cardioverter
+defibrillators.
+PURPOSE: This study aims to determine the feasibility of a phone-delivered
+mindfulness intervention in patients with defibrillators and to obtain
+preliminary indications of efficacy on mindfulness and anxiety.
+METHODS: Clinically stable outpatients were randomized to a mindfulness
+intervention (eight weekly individual phone sessions) or to a scripted follow-up 
+phone call. We used the Hospital Anxiety and Depression Scale and the Five Facets
+of Mindfulness to measure anxiety and mindfulness, and multivariate linear
+regression to estimate the intervention effect on pre-post-intervention changes
+in these variables.
+RESULTS: We enrolled 45 patients (23 mindfulness and 22 control; age, 43-83; 30 %
+women). Retention was 93 %; attendance was 94 %. Mindfulness (beta = 3.31; p =
+0.04) and anxiety (beta = -1.15; p = 0.059) improved in the mindfulness group.
+CONCLUSIONS: Mindfulness training can be effectively phone-delivered and may
+improve mindfulness and anxiety in cardiac defibrillator outpatients.
+
+DOI: 10.1007/s12160-013-9505-7 
+PMCID: PMC3758416
+PMID: 23605175  [PubMed - indexed for MEDLINE]
+
+
+8. J Clin Psychiatry. 2013 Aug;74(8):786-92. doi: 10.4088/JCP.12m08083.
+
+Randomized controlled trial of mindfulness meditation for generalized anxiety
+disorder: effects on anxiety and stress reactivity.
+
+Hoge EA(1), Bui E, Marques L, Metcalf CA, Morris LK, Robinaugh DJ, Worthington
+JJ, Pollack MH, Simon NM.
+
+Author information: 
+(1)Center for Anxiety and Traumatic Stress Disorders, Massachusetts General
+Hospital, One Bowdoin Sq, 6th Floor, Boston, MA 02114 ehoge@partners.org.
+
+OBJECTIVE: Mindfulness meditation has met increasing interest as a therapeutic
+strategy for anxiety disorders, but prior studies have been limited by
+methodological concerns, including a lack of an active comparison group. This is 
+the first randomized, controlled trial comparing the manualized Mindfulness-Based
+Stress Reduction (MBSR) program with an active control for generalized anxiety
+disorder (GAD), a disorder characterized by chronic worry and physiologic
+hyperarousal symptoms.
+METHOD: Ninety-three individuals with DSM-IV-diagnosed GAD were randomly assigned
+to an 8-week group intervention with MBSR or to an attention control, Stress
+Management Education (SME), between 2009 and 2011. Anxiety symptoms were measured
+with the Hamilton Anxiety Rating Scale (HAMA; primary outcome measure), the
+Clinical Global Impressions-Severity of Illness and -Improvement scales (CGI-S
+and CGI-I), and the Beck Anxiety Inventory (BAI). Stress reactivity was assessed 
+by comparing anxiety and distress during pretreatment and posttreatment
+administration of the Trier Social Stress Test (TSST).
+RESULTS: A modified intent-to-treat analysis including participants who completed
+at least 1 session of MBSR (n = 48) or SME (n = 41) showed that both
+interventions led to significant (P < .0001) reductions in HAMA scores at
+endpoint, but did not significantly differ. MBSR, however, was associated with a 
+significantly greater reduction in anxiety as measured by the CGI-S, the CGI-I,
+and the BAI (all P values < .05). MBSR was also associated with greater
+reductions than SME in anxiety and distress ratings in response to the TSST
+stress challenge (P < .05) and a greater increase in positive self-statements (P 
+= .004).
+CONCLUSIONS: These results suggest that MBSR may have a beneficial effect on
+anxiety symptoms in GAD and may also improve stress reactivity and coping as
+measured in a laboratory stress challenge.
+TRIAL REGISTRATION: ClinicalTrials.gov identifier: NCT01033851.
+
+© Copyright 2013 Physicians Postgraduate Press, Inc.
+
+DOI: 10.4088/JCP.12m08083 
+PMCID: PMC3772979
+PMID: 23541163  [PubMed - indexed for MEDLINE]
+
+
+9. Nurse Educ Today. 2013 Oct;33(10):1166-72. doi: 10.1016/j.nedt.2012.11.014. Epub 
+2012 Dec 20.
+
+A randomized controlled trial of the effects of brief mindfulness meditation on
+anxiety symptoms and systolic blood pressure in Chinese nursing students.
+
+Chen Y(1), Yang X, Wang L, Zhang X.
+
+Author information: 
+(1)Department of Psychology, School of Public Health and Tropical Medicine,
+Southern Medical University, 1838 North Guangzhou Avenue, Guangzhou, Guangdong
+province 510515, China; School of Nursing, Southern Medical University, 1838
+North Guangzhou Avenue, Guangzhou, Guangdong province 510515, China. Electronic
+address: truelife2010@126.com.
+
+BACKGROUND: Previous studies suggested that mindfulness meditation effectively
+reduced stress-related anxiety and depression symptoms, but no research has
+evaluated the efficacy of mindfulness meditation in nurses and nursing students
+in China.
+OBJECTIVES: To evaluate the effects of brief mindfulness meditation on the
+anxiety and depression symptoms and autonomic nervous system activity in Chinese 
+nursing students.
+DESIGN: A randomized controlled trial.
+SETTING: A medical university in Guangzhou, China.
+PARTICIPANTS: One hundred and five nursing students were randomly approached by
+email and seventy-two responded. Sixty recruited students were randomized into
+meditation and control group (n=30 each) after screening and exclusion due to
+factors known to influence mood ratings and autonomic nervous system measures.
+METHODS: The meditation group performed mindfulness meditation 30 min daily for 7
+consecutive days. The control group received no intervention except pre-post
+treatment measurements. The Self-Rating Anxiety Scale and Self-Rating Depression 
+Scale were administered to participants, and heart rate and blood pressure were
+measured. Pre- and post-treatment data were analyzed using repeated-measures
+analysis of variance.
+RESULTS: Differences between pre- and post-treatment Self-Rating Anxiety Scale
+scores were significantly larger in the meditation group than in the control
+group, but no similar effect was observed for Self-Rating Depression Scale
+scores. Systolic blood pressure was reduced more after the intervention in the
+meditation group than in the control group, with an average reduction of 2.2
+mmHg. A moderate level of anxiety was associated with the maximum meditation
+effect.
+CONCLUSIONS: Brief mindfulness meditation was beneficial for Chinese nursing
+students in reducing anxiety symptoms and lowering systolic blood pressure.
+Individuals with moderate anxiety are most likely to benefit from a short-term
+mindfulness meditation program.
+
+Copyright © 2012 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.nedt.2012.11.014 
+PMID: 23260618  [PubMed - indexed for MEDLINE]
+
+
+10. Complement Ther Med. 2012 Dec;20(6):377-84. doi: 10.1016/j.ctim.2012.07.003. Epub
+2012 Aug 3.
+
+Argentine tango dance compared to mindfulness meditation and a waiting-list
+control: a randomised trial for treating depression.
+
+Pinniger R(1), Brown RF, Thorsteinsson EB, McKinley P.
+
+Author information: 
+(1)University of New England, Australia. rpinnige@une.edu.au
+
+OBJECTIVES: To determine whether tango dancing is as effective as mindfulness
+meditation in reducing symptoms of psychological stress, anxiety and depression, 
+and in promoting well-being.
+DESIGN: This study employed analysis of covariance (ANCOVA) and multiple
+regression analysis.
+PARTICIPANTS: Ninety-seven people with self-declared depression were randomised
+into tango dance or mindfulness meditation classes, or to control/waiting-list.
+SETTING: classes were conducted in a venue suitable for both activities in the
+metropolitan area of Sydney, Australia.
+INTERVENTIONS: Participants completed six-week programmes (1½h/week of tango or
+meditation). The outcome measures were assessed at pre-test and post-test.
+MAIN OUTCOME MEASURES: Depression, Anxiety and Stress Scale; The Self Esteem
+Scale; Satisfaction with Life Scale, and Mindful Attention Awareness Scale.
+RESULTS: Sixty-six participants completed the program and were included in the
+statistical analysis. Depression levels were significantly reduced in the tango
+(effect size d=0.50, p=.010), and meditation groups (effect size d=0.54, p=.025),
+relative to waiting-list controls. Stress levels were significantly reduced only 
+in the tango group (effect size d=0.45, p=.022). Attending tango classes was a
+significant predictor for the increased levels of mindfulness R(2)=.10, adjusted 
+R(2)=.07, F (2,59)=3.42, p=.039.
+CONCLUSION: Mindfulness-meditation and tango dance could be effective
+complementary adjuncts for the treatment of depression and/or inclusion in stress
+management programmes. Subsequent trials are called to explore the therapeutic
+mechanisms involved.
+
+Crown Copyright © 2012. Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.ctim.2012.07.003 
+PMID: 23131367  [PubMed - indexed for MEDLINE]
+
+
+11. Stress Health. 2012 Dec;28(5):397-407. doi: 10.1002/smi.2470.
+
+Changes in cerebral blood flow and anxiety associated with an 8-week mindfulness 
+programme in women with breast cancer.
+
+Monti DA(1), Kash KM, Kunkel EJ, Brainard G, Wintering N, Moss AS, Rao H, Zhu S, 
+Newberg AB.
+
+Author information: 
+(1)Jefferson-Myrna Brind Center of Integrative Medicine, Thomas Jefferson
+University, Philadelphia, PA 19107, USA. daniel.monti@jefferson.edu
+
+This study employed functional magnetic resonance imaging to evaluate changes in 
+cerebral blood flow (CBF) associated with the Mindfulness-based Art Therapy
+(MBAT) programme and correlate such changes to stress and anxiety in women with
+breast cancer. Eighteen breast cancer patients were randomized to the MBAT or
+education control group. The patients received the diagnosis of breast cancer
+between 6 months and 3 years prior to enrollment and were not in active
+treatment. The age of participants ranged from 52 to 77 years. A voxel-based
+analysis was performed to assess differences at rest, during meditation and
+during a stress task. The anxiety sub-scale of the Symptoms Checklist-90-Revised 
+was compared with changes in resting CBF before and after the programmes.
+Subjects in the MBAT arm demonstrated significant increases in CBF at rest and
+during meditation in multiple limbic regions, including the left insula, right
+amygdala, right hippocampus and bilateral caudate. Patients in the MBAT programme
+also had a significant correlation between increased CBF in the left caudate and 
+decreased anxiety scores. In the MBAT group, responses to a stressful cue
+resulted in reduced activation of the posterior cingulate. The results
+demonstrate that the MBAT programme was associated with significant changes in
+CBF, which correlated with decreased anxiety over an 8-week period.
+
+Copyright © 2012 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/smi.2470 
+PMID: 23129559  [PubMed - indexed for MEDLINE]
+
+
+12. J Altern Complement Med. 2012 Aug;18(8):756-60. doi: 10.1089/acm.2011.0407. Epub 
+2012 Jul 13.
+
+Mindfulness-based cognitive therapy versus psycho-education for patients with
+major depression who did not achieve remission following antidepressant
+treatment: a preliminary analysis.
+
+Chiesa A(1), Mandelli L, Serretti A.
+
+Author information: 
+(1)Institute of Psychiatry, University of Bologna, Bologna, Italy.
+albertopnl@yahoo.it
+
+OBJECTIVES: The objective of this study was to compare mindfulness-based
+cognitive therapy (MBCT) with a psycho-educational control group designed to be
+structurally equivalent to the MBCT program but excluding the claimed "active
+ingredient" of MBCT (i.e., mindfulness meditation practice) for the treatment of 
+patients with major depression (MD).
+DESIGN: This was a randomized controlled trial.
+LOCATION: The study was conducted at the Institute of Psychiatry, University of
+Bologna, Italy.
+SUBJECTS: Patients who had MD and who did not achieve remission following at
+least 8 weeks of antidepressant treatment were considered for inclusion. Eligible
+subjects were randomized to receive MBCT or psycho-education and were
+prospectively followed for 8 weeks.
+OUTCOME MEASURES: MD severity was assessed with the Hamilton Rating Scale for
+Depression (HAMD). Measures of anxiety, mindfulness, and quality of life, as
+measured with the Beck Anxiety Inventory, Mindfulness Attention and Awareness
+Scale, and the Psychological General Well-being Index (PGWBI), respectively, were
+also included. All assessments were performed at baseline, 4 weeks, and 8 weeks. 
+Changes of psychologic variables over the study period were analyzed by means of 
+the repeated-measures analysis of variance.
+RESULTS: Of 29 screened subjects, 16 received MBCT or psycho-education. Both HAMD
+and PGWBI scores improved to a significantly higher extent in the MBCT group than
+in the psycho-educational control group.
+CONCLUSIONS: Although limited by a small sample size and the lack of follow-up
+measures, the results of this preliminary study suggest the superiority of MBCT
+over psycho-education for subjects who had MD and who did not achieve remission
+following antidepressant treatment.
+
+DOI: 10.1089/acm.2011.0407 
+PMID: 22794787  [PubMed - indexed for MEDLINE]
+
+
+13. Soc Cogn Affect Neurosci. 2013 Jan;8(1):65-72. doi: 10.1093/scan/nss054. Epub
+2012 May 13.
+
+MBSR vs aerobic exercise in social anxiety: fMRI of emotion regulation of
+negative self-beliefs.
+
+Goldin P(1), Ziv M, Jazaieri H, Hahn K, Gross JJ.
+
+Author information: 
+(1)Department of Psychology, Stanford University, Stanford, CA 94305, USA.
+pgoldin@stanford.edu
+
+Mindfulness-based stress reduction (MBSR) is thought to reduce emotional
+reactivity and enhance emotion regulation in patients with social anxiety
+disorder (SAD). The goal of this study was to examine the neural correlates of
+deploying attention to regulate responses to negative self-beliefs using
+functional magnetic resonance imaging. Participants were 56 patients with
+generalized SAD in a randomized controlled trial who were assigned to MBSR or a
+comparison aerobic exercise (AE) stress reduction program. Compared to AE, MBSR
+yielded greater (i) reductions in negative emotion when implementing regulation
+and (ii) increases in attention-related parietal cortical regions. Meditation
+practice was associated with decreases in negative emotion and social anxiety
+symptom severity, and increases in attention-related parietal cortex neural
+responses when implementing attention regulation of negative self-beliefs.
+Changes in attention regulation during MBSR may be an important psychological
+factor that helps to explain how mindfulness meditation training benefits
+patients with anxiety disorders.
+
+DOI: 10.1093/scan/nss054 
+PMCID: PMC3541489
+PMID: 22586252  [PubMed - indexed for MEDLINE]
+
+
+14. Int J Behav Med. 2012 Dec;19(4):535-42. doi: 10.1007/s12529-011-9192-3.
+
+A randomized study of the effects of mindfulness training on psychological
+well-being and symptoms of stress in patients treated for cancer at 6-month
+follow-up.
+
+Bränström R(1), Kvillemo P, Moskowitz JT.
+
+Author information: 
+(1)Department of Oncology-Pathology, Karolinska Institute, Radiumhemmet,
+Karolinska University Hospital, Stockholm, Sweden. richard.branstrom@ki.se
+
+BACKGROUND: There is increasing evidence showing beneficial effects of
+mindfulness and mindfulness training on various indicators of mental and physical
+health.
+PURPOSE: This paper reports the 6-month follow-up effects of a mindfulness stress
+reduction training program among patients treated for cancer on perceived stress,
+depression, anxiety, post-traumatic stress symptoms, positive states of mind,
+coping self-efficacy, and mindfulness.
+METHODS: Patients with a previous cancer diagnosis were recruited and randomized 
+into an intervention group or a waiting list control group. The intervention
+consisted of an 8-week mindfulness training course.
+RESULTS: Compared to participants in the control group, the intervention group
+showed a larger increase in mindfulness at 6-month follow-up. However, there were
+no differences on any of the other outcomes between the intervention and control 
+groups. Continued meditation practice was associated with a significant reduction
+in post-traumatic stress symptoms of avoidance.
+CONCLUSIONS: The study draws attention to the need to better understand the
+mechanisms behind the effect of mindfulness training and to potential
+modification of mindfulness interventions to promote sustained benefits over
+time.
+
+DOI: 10.1007/s12529-011-9192-3 
+PMCID: PMC3518555
+PMID: 21931958  [PubMed - indexed for MEDLINE]
+
+
+15. Altern Ther Health Med. 2010 Sep-Oct;16(5):30-8.
+
+Mindfulness-based stress reduction for solid organ transplant recipients: a
+randomized controlled trial.
+
+Gross CR(1), Kreitzer MJ, Thomas W, Reilly-Spong M, Cramer-Bornemann M, Nyman JA,
+Frazier P, Ibrahim HN.
+
+Author information: 
+(1)College of Pharmacy, University of Minnesota, Minneapolis, USA.
+gross002@umn.edu
+
+CONTEXT: Patients who have received solid organ transplants continue to
+experience a myriad of complex symptoms related to their underlying disease and
+to chronic immunosuppression that reduce the quality of life. Beneficial
+nonpharmacologic therapies to address these symptoms have not been established in
+the transplant population.
+OBJECTIVE: Assess the efficacy of mindfulness-based stress reduction (MBSR) in
+reducing symptoms of anxiety, depression, and poor sleep in transplant patients.
+DESIGN, SETTING, AND PATIENTS: Controlled trial with a two-staged randomization. 
+Recipients of kidney, kidney/pancreas, liver, heart, or lung transplants were
+randomized to MBSR (n=72) or health education (n=66) initially or after serving
+in a waitlist. Mean age was 54 years (range 21-75); 55% were men, and 91% were
+white.
+INTERVENTIONS: MBSR, a mindfulness meditation training program consisting of
+eight weekly 2.5-hour classes; health education, a peer-led active control.
+PRIMARY OUTCOME MEASURES: Anxiety (State-Trait Anxiety Inventory), depression
+(Center for Epidemiologic Studies Depression Scale), and sleep quality
+(Pittsburgh Sleep Quality Index) scales assessed by self-report at baseline, 8
+weeks, 6 months, and 1 year.
+RESULTS: Benefits of MBSR were above and beyond those afforded by the active
+control. MBSR reduced anxiety and sleep symptoms (P < .02), with medium treatment
+effects (.51 and .56) at 1 year compared to health education in
+intention-to-treat analyses. Within the MBSR group, anxiety, depression, and
+sleep symptoms decreased and quality-of-life measures improved by 8 weeks (P <
+.01, all), and benefits were retained at 1 year (P < .05, all). Initial symptom
+reductions in the health education group were smaller and not sustained.
+Comparisons to the waitlist confirmed the impact of MBSR on both symptoms and
+quality of life, whereas health education improvements were limited to
+quality-of-life ratings.
+CONCLUSIONS: MBSR reduced distressing symptoms of anxiety, depression, and poor
+sleep and improved quality of life. Benefits were sustained over 1 year. A health
+education program provided fewer benefits, and effects were not as durable. MBSR 
+is a relatively inexpensive, safe, and effective community-based intervention.
+
+
+PMCID: PMC3076132
+PMID: 20882729  [PubMed - indexed for MEDLINE]
+
+
+16. Percept Mot Skills. 2010 Jun;110(3 Pt 1):840-8.
+
+Effect of progressive self-focus meditation on attention, anxiety, and depression
+scores.
+
+Leite JR(1), Ornellas FL, Amemiya TM, de Almeida AA, Dias AA, Afonso R, Little S,
+Kozasa EH.
+
+Author information: 
+(1)Behavioral Medicine Unit, Department of Psychobiology, Universidade Federal de
+São Paulo, Brazil.
+
+Comment in
+    Percept Mot Skills. 2010 Dec;111(3):918-20.
+
+This study evaluated the effects of Progressive Self-focus Meditation with 42
+volunteers (M age = 46.0 yr., SD = 14.1) allocated to two groups: one that had
+weekly 1-hr. training sessions in the practice for 5 wk. and one waiting-list
+group. Participants were evaluated before and after 5 wk. on the Beck Anxiety
+Inventory, Beck Depression Inventory, the Digit Symbol subtest of the Wechsler
+Adult Intelligence Scale, and the Mindfulness Attention Awareness Scale. After 5 
+wk., a significant reduction in scores on depression was found in the Meditation 
+group as well as an increase in attention in comparison with the waiting-list
+Control group.
+
+DOI: 10.2466/PMS.110.3.840-848 
+PMID: 20681336  [PubMed - indexed for MEDLINE]
+
+
+17. Nurse Educ Today. 2009 Jul;29(5):538-43. doi: 10.1016/j.nedt.2008.12.003. Epub
+2009 Jan 13.
+
+The effectiveness of a stress coping program based on mindfulness meditation on
+the stress, anxiety, and depression experienced by nursing students in Korea.
+
+Kang YS(1), Choi SY, Ryu E.
+
+Author information: 
+(1)Department of Preventive Medicine, Institute of Health Science, School of
+Medicine, Gyeong-Sang National University, 92 Chilam-dong, Chinju 660-751,
+Republic of Korea.
+
+This study examined the effectiveness of a stress coping program based on
+mindfulness meditation on the stress, anxiety, and depression experienced by
+nursing students in Korea. A nonequivalent, control group, pre-posttest design
+was used. A convenience sample of 41 nursing students were randomly assigned to
+experimental (n=21) and control groups (n=20). Stress was measured with the
+PWI-SF (5-point) developed by Chang. Anxiety was measured with Spieberger's state
+anxiety inventory. Depression was measured with the Beck depression inventory.
+The experimental group attended 90-min sessions for eight weeks. No intervention 
+was administered to the control group. Nine participants were excluded from the
+analysis because they did not complete the study due to personal circumstances,
+resulting in 16 participants in each group for the final analysis. Results for
+the two groups showed (1) a significant difference in stress scores (F=6.145,
+p=0.020), (2) a significant difference in anxiety scores (F=6.985, p=0.013), and 
+(3) no significant difference in depression scores (t=1.986, p=0.056). A stress
+coping program based on mindfulness meditation was an effective intervention for 
+nursing students to decrease their stress and anxiety, and could be used to
+manage stress in student nurses. In the future, long-term studies should be
+pursued to standardize and detail the program, with particular emphasis on
+studies to confirm the effects of the program in patients with diseases, such as 
+cancer.
+
+DOI: 10.1016/j.nedt.2008.12.003 
+PMID: 19141364  [PubMed - indexed for MEDLINE]
+
+
+18. Behav Res Ther. 2007 Oct;45(10):2518-26. Epub 2007 May 3.
+
+Randomized trial of a meditation-based stress reduction program and cognitive
+behavior therapy in generalized social anxiety disorder.
+
+Koszycki D(1), Benger M, Shlik J, Bradwejn J.
+
+Author information: 
+(1)Stress and Anxiety Clinical Research Unit, University of Ottawa Institute of
+Mental Health Research, Royal Ottawa Mental Health Centre, 1145 Carling Ave.,
+Ottawa, Ont., Canada K1Z 7K4. dkoszyck@rohcg.on.ca
+
+Mindfulness-based stress reduction (MBSR) has been reported to reduce anxiety in 
+a broad range of clinical populations. However, its efficacy in alleviating core 
+symptoms of specific anxiety disorders is not well established. We conducted a
+randomized trial to evaluate how well MBSR compared to a first-line psychological
+intervention for social anxiety disorder (SAD). Fifty-three patients with DSM-IV 
+generalized SAD were randomized to an 8-week course of MBSR or 12 weekly sessions
+of cognitive-behavioral group therapy (CBGT). Although patients in both treatment
+groups improved, patients receiving CBGT had significantly lower scores on
+clinician- and patient-rated measures of social anxiety. Response and remission
+rates were also significantly greater with CBGT. Both interventions were
+comparable in improving mood, functionality and quality of life. The results
+confirm that CBGT is the treatment of choice of generalized SAD and suggest that 
+MBSR may have some benefit in the treatment of generalized SAD.
+
+DOI: 10.1016/j.brat.2007.04.011 
+PMID: 17572382  [PubMed - indexed for MEDLINE]
+
+
+19. Appl Psychophysiol Biofeedback. 2015 Dec;40(4):257-68. doi:
+10.1007/s10484-015-9293-x.
+
+Physical activity, mindfulness meditation, or heart rate variability biofeedback 
+for stress reduction: a randomized controlled trial.
+
+van der Zwan JE(1,)(2), de Vente W(3,)(4), Huizink AC(5), Bögels SM(3,)(4), de
+Bruin EI(3,)(4).
+
+Author information: 
+(1)Department of Developmental Psychology and EMGO Institute for Health and Care 
+Research, VU University Amsterdam, Amsterdam, The Netherlands.
+j.e.vander.zwan@vu.nl. (2)Department of Developmental Psychology, Faculty of
+Psychology and Education, VU University Amsterdam, Van Der Boechorststraat 1,
+1081 BT, Amsterdam, The Netherlands. j.e.vander.zwan@vu.nl. (3)Research Institute
+of Child Development and Education, University of Amsterdam, Amsterdam, The
+Netherlands. (4)Research Priority Area Yield, University of Amsterdam, Amsterdam,
+The Netherlands. (5)Department of Developmental Psychology and EMGO Institute for
+Health and Care Research, VU University Amsterdam, Amsterdam, The Netherlands.
+
+In contemporary western societies stress is highly prevalent, therefore the need 
+for stress-reducing methods is great. This randomized controlled trial compared
+the efficacy of self-help physical activity (PA), mindfulness meditation (MM),
+and heart rate variability biofeedback (HRV-BF) in reducing stress and its
+related symptoms. We randomly allocated 126 participants to PA, MM, or HRV-BF
+upon enrollment, of whom 76 agreed to participate. The interventions consisted of
+psycho-education and an introduction to the specific intervention techniques and 
+5 weeks of daily exercises at home. The PA exercises consisted of a
+vigorous-intensity activity of free choice. The MM exercises consisted of guided 
+mindfulness meditation. The HRV-BF exercises consisted of slow breathing with a
+heart rate variability biofeedback device. Participants received daily reminders 
+for their exercises and were contacted weekly to monitor their progress. They
+completed questionnaires prior to, directly after, and 6 weeks after the
+intervention. Results indicated an overall beneficial effect consisting of
+reduced stress, anxiety and depressive symptoms, and improved psychological
+well-being and sleep quality. No significant between-intervention effect was
+found, suggesting that PA, MM, and HRV-BF are equally effective in reducing
+stress and its related symptoms. These self-help interventions provide easily
+accessible help for people with stress complaints.
+
+DOI: 10.1007/s10484-015-9293-x 
+PMCID: PMC4648965
+PMID: 26111942  [PubMed - indexed for MEDLINE]
+
+
+20. Integr Cancer Ther. 2015 Jul;14(4):366-80. doi: 10.1177/1534735415580675. Epub
+2015 Apr 14.
+
+An Exploratory Study of the Effects of Mind-Body Interventions Targeting Sleep on
+Salivary Oxytocin Levels in Cancer Survivors.
+
+Lipschitz DL(1), Kuhn R(2), Kinney AY(3), Grewen K(4), Donaldson GW(2), Nakamura 
+Y(2).
+
+Author information: 
+(1)University of Utah, Salt Lake City, UT, USA dll3@utah.edu. (2)University of
+Utah, Salt Lake City, UT, USA. (3)University of New Mexico, Albuquerque, NM, USA.
+(4)University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.
+
+Cancer survivors experience high levels of distress, associated with a host of
+negative psychological states, including anxiety, depression, and fear of
+recurrence, which often lead to sleep problems and reduction in quality of life
+(QOL) and well-being. As a neuropeptide hormone associated with affiliation,
+calmness, and well-being, oxytocin may be a useful biological measure of changes 
+in health outcomes in cancer survivors. In this exploratory study, which
+comprised a subset of participants from a larger study, we evaluated (a) the
+feasibility and reliability of salivary oxytocin (sOT) levels in cancer survivors
+and (b) the effects of 2 sleep-focused mind-body interventions, mind-body
+bridging (MBB) and mindfulness meditation (MM), compared with a sleep hygiene
+education (SHE) control, on changes in sOT levels in 30 cancer survivors with
+self-reported sleep disturbance. Interventions were conducted in 3 sessions, once
+per week for 3 weeks. Saliva samples were collected at baseline, postintervention
+(~1 week after the last session), and at the 2-month follow-up. In this cancer
+survivor group, we found that intra-individual sOT levels were fairly stable
+across the 3 time points, of about 3 months' duration, and mean baseline sOT
+levels did not differ between females and males and were not correlated with age.
+Correlations between baseline sOT and self-report measures were weak; however,
+several of these relationships were in the predicted direction, in which sOT
+levels were negatively associated with sleep problems and depression and
+positively associated with cancer-related QOL and well-being. Regarding
+intervention effects on sOT, baseline-subtracted sOT levels were significantly
+larger at postintervention in the MBB group as compared with those in SHE. In
+this sample of cancer survivors assessed for sOT, at postintervention, greater
+reductions in sleep problems were noted for MBB and MM compared with that of SHE,
+and increases in mindfulness and self-compassion were observed in the MBB group
+compared with those in SHE. The findings in this exploratory study suggest that
+sOT may be a reliable biological measure over time that may provide insight into 
+the effects of mind-body interventions on health outcomes in cancer survivors.
+
+© The Author(s) 2015.
+
+DOI: 10.1177/1534735415580675 
+PMID: 25873295  [PubMed - indexed for MEDLINE]
